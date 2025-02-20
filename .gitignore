@@ -4,8 +4,8 @@
 
 ### Python ###
 # CUSTOM
-*.sqlite3
-*.bin
+# *.sqlite3
+# *.bin
 # demo-rag-chroma/
 
 # Byte-compiled / optimized / DLL files
